@@ -6509,7 +6509,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important; }
+  margin-top: 5rem !important; }
 
 .mr-5,
 .mx-5 {
@@ -9078,7 +9078,7 @@ textarea.form-control {
   padding-top: 0 !important; }
 
 .ftco-no-pb {
-  padding-bottom: 0 !important; }
+  padding-bottom: 125px !important; }
 
 .ftco-bg-dark {
   background: #3c312e; }
@@ -9499,10 +9499,10 @@ textarea.form-control {
     display: inline-block;
     margin-right: 5px;
     margin-bottom: 0;
-    font-size: 14px; }
+    font-size: 35px; }
     .blog-entry .meta a {
       color: gray;
-      font-size: 15px; }
+      font-size: 22px; }
       .blog-entry .meta a:hover {
         color: #666666; }
   .blog-entry .topp {
