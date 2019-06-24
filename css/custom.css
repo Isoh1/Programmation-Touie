@@ -3,6 +3,16 @@
 }
 
 .hero-img {
-  width: 890px;
-  margin-top: 75px;
+  width: 976px;
+  margin-top: 0px;
+  height: 1030px
 }
+	<style>
+.carousel-page
+{
+width: 976PX; 
+margin-top: 0px;
+height:1030px;
+
+}
+</style>
